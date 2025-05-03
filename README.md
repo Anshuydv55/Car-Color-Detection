@@ -2,7 +2,7 @@
 
 # Sign-language-Detection
 
-Simple Sign Detection model using machine learning
+Simple car color Detection model using machine learning
 
 ## To simply run this model:
 1. Clone this repository
